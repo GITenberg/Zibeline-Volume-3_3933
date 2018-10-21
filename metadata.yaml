@@ -1,5 +1,5 @@
 _repo: Zibeline-Volume-3_3933
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Ranous, Dora Knowlton
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Heroines -- Fiction'
 - !lcsh 'Paris (France) -- Fiction'
 - !lcc 'PQ'
+- GITenberg
 title: Zibeline — Volume 3
 url: http://www.gutenberg.org/ebooks/3933
